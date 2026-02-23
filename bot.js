@@ -84,4 +84,6 @@ async function safeFetch(url) {
   });
 
   fs.writeFileSync("ranking.md", md);
+  const namesOnly = ranking.map(u => u.name).join("\n");
+  fs.writeFileSync("username.txt", namesOnly);
 })();
