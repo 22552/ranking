@@ -114,11 +114,11 @@ async function parallelMap(arr, limit, fn) {
     md += `合計: ${u.total}（コメント ${u.comments} / 返信 ${u.replies}）\n\n`;
   });
 
-  fs.writeFileSync("ranking.md", md);
+  fs.writeFileSync("README.md", md);
 
   // username.txt
   const namesOnly = ranking.map(u => u.name).join("\n");
   fs.writeFileSync("username.txt", namesOnly);
 
-  console.log("ranking.md / username.txt 更新完了");
+  console.log("README.md / username.txt 更新完了");
 })();
