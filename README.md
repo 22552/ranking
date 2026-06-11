@@ -3,10 +3,10 @@
 対象: 過去24時間
 
 - コメント総数: 994
-- 返信総数: 1068
+- 返信総数: 1069
 - 参加人数: 115
-- 平均活動数: 17.93
-- 標準偏差: 26.53
+- 平均活動数: 17.94
+- 標準偏差: 26.52
 
 更新: {{ 'now' | date: "%Y-%m-%d %H:%M:%S" }}
 
@@ -25,7 +25,7 @@
 合計: 94（コメント 35 / 返信 59 / 返信された数 58 / 偏差値 78.7）
 
 **5位 kaban_bag1230**  
-合計: 81（コメント 51 / 返信 30 / 返信された数 67 / 偏差値 73.8）
+合計: 81（コメント 51 / 返信 30 / 返信された数 68 / 偏差値 73.8）
 
 **6位 Aki_Lost**  
 合計: 68（コメント 38 / 返信 30 / 返信された数 31 / 偏差値 68.9）
@@ -76,7 +76,7 @@
 合計: 31（コメント 6 / 返信 25 / 返信された数 31 / 偏差値 54.9）
 
 **22位 miyabc**  
-合計: 30（コメント 15 / 返信 15 / 返信された数 8 / 偏差値 54.6）
+合計: 30（コメント 15 / 返信 15 / 返信された数 8 / 偏差値 54.5）
 
 **23位 mitarasidango25**  
 合計: 29（コメント 18 / 返信 11 / 返信された数 12 / 偏差値 54.2）
@@ -270,47 +270,47 @@
 **86位 tesu2067**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 44.0</span>）
 
-**87位 shironori**  
+**87位 Zz-onakagasuitayo-zZ**  
+合計: 2（コメント 1 / 返信 1 / 返信された数 1 / <span style="color:red">偏差値 44.0</span>）
+
+**88位 shironori**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 2 / <span style="color:red">偏差値 44.0</span>）
 
-**88位 ponekapu**  
+**89位 ponekapu**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 44.0</span>）
 
-**89位 7FFFF**  
+**90位 7FFFF**  
 合計: 2（コメント 1 / 返信 1 / 返信された数 3 / <span style="color:red">偏差値 44.0</span>）
 
-**90位 fumeiyo**  
+**91位 fumeiyo**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 2 / <span style="color:red">偏差値 44.0</span>）
 
-**91位 -Scratch_Nebula-**  
+**92位 -Scratch_Nebula-**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 44.0</span>）
 
-**92位 tato0702**  
+**93位 tato0702**  
 合計: 2（コメント 1 / 返信 1 / 返信された数 3 / <span style="color:red">偏差値 44.0</span>）
 
-**93位 IIovesmm2**  
+**94位 IIovesmm2**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 44.0</span>）
 
-**94位 _-tobuneko-_**  
+**95位 _-tobuneko-_**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 44.0</span>）
 
-**95位 3150dayo_2**  
+**96位 3150dayo_2**  
 合計: 2（コメント 0 / 返信 2 / 返信された数 0 / <span style="color:red">偏差値 44.0</span>）
 
-**96位 MUSIMUSIBAIBAI**  
+**97位 MUSIMUSIBAIBAI**  
 合計: 2（コメント 0 / 返信 2 / 返信された数 0 / <span style="color:red">偏差値 44.0</span>）
 
-**97位 Sub-kintetsu**  
+**98位 Sub-kintetsu**  
 合計: 2（コメント 0 / 返信 2 / 返信された数 0 / <span style="color:red">偏差値 44.0</span>）
 
-**98位 aria_plus**  
+**99位 aria_plus**  
 合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**99位 Neon-8x_**  
+**100位 Neon-8x_**  
 合計: 1（コメント 1 / 返信 0 / 返信された数 5 / <span style="color:red">偏差値 43.6</span>）
-
-**100位 Zz-onakagasuitayo-zZ**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.6</span>）
 
 **101位 nekokami_neko**  
 合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.6</span>）
@@ -351,9 +351,9 @@
 **113位 TAGAJO**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**114位 kemoner**  
+**114位 Nisiki_108**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**115位 Nisiki_108**  
+**115位 kemoner**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
