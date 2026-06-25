@@ -357,9 +357,9 @@
 **115位 N183**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
 
-**116位 64SONIKKU**  
+**116位 tanuki6222**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
 
-**117位 tanuki6222**  
+**117位 64SONIKKU**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
 
