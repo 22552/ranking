@@ -297,10 +297,10 @@
 **95位 Sub-kintetsu**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 42.6</span>）
 
-**96位 harukali**  
+**96位 zyagariko_GCM**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 42.6</span>）
 
-**97位 zyagariko_GCM**  
+**97位 harukali**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 42.6</span>）
 
 **98位 nekoneko_catdesu**  
