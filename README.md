@@ -3,9 +3,9 @@
 対象: 過去24時間
 
 - コメント総数: 574
-- 返信総数: 671
+- 返信総数: 672
 - 参加人数: 118
-- 平均活動数: 10.55
+- 平均活動数: 10.56
 - 標準偏差: 15.05
 
 更新: {{ 'now' | date: "%Y-%m-%d %H:%M:%S" }}
@@ -285,84 +285,84 @@
 **91位 Xx-aqua-official-xX**  
 合計: 2（コメント 2 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 44.3</span>）
 
-**92位 __-yozorasan-__**  
+**92位 MGA1111**  
+合計: 2（コメント 1 / 返信 1 / 返信された数 2 / <span style="color:red">偏差値 44.3</span>）
+
+**93位 __-yozorasan-__**  
 合計: 2（コメント 1 / 返信 1 / 返信された数 1 / <span style="color:red">偏差値 44.3</span>）
 
-**93位 Husyu11**  
+**94位 Husyu11**  
 合計: 2（コメント 0 / 返信 2 / 返信された数 0 / <span style="color:red">偏差値 44.3</span>）
 
-**94位 syokusenki**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+**95位 syokusenki**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**95位 37km**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+**96位 37km**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**96位 too-lack_too-luck**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 5 / <span style="color:red">偏差値 43.7</span>）
+**97位 too-lack_too-luck**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 5 / <span style="color:red">偏差値 43.6</span>）
 
-**97位 kimuti-1146**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.7</span>）
+**98位 kimuti-1146**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.6</span>）
 
-**98位 LUTERA_506**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.7</span>）
+**99位 LUTERA_506**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.6</span>）
 
-**99位 REISHOU**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 3 / <span style="color:red">偏差値 43.7</span>）
+**100位 REISHOU**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 3 / <span style="color:red">偏差値 43.6</span>）
 
-**100位 hasaku517**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.7</span>）
+**101位 hasaku517**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.6</span>）
 
-**101位 -niratama-**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+**102位 -niratama-**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**102位 probablymedakaman**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+**103位 probablymedakaman**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**103位 7FFFF**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.7</span>）
+**104位 7FFFF**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.6</span>）
 
-**104位 bro-orisyu**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+**105位 bro-orisyu**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**105位 ponekapu**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+**106位 ponekapu**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**106位 akachiyan**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+**107位 akachiyan**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
-**107位 raito_1852**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
-
-**108位 MGA1111**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.7</span>）
+**108位 raito_1852**  
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **109位 KINUGOSHI-DOUHU**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **110位 Buckster76_Shared**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 1 / 返信 0 / 返信された数 1 / <span style="color:red">偏差値 43.6</span>）
 
 **111位 2525obake**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **112位 ritu_1000**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **113位 PUBNIX**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **114位 Sabuuaka2**  
-合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 1 / 返信 0 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **115位 207205**  
-合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **116位 Ruliliy**  
-合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **117位 _0o0**  
-合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
 **118位 uygwcdybucwdyubw42**  
-合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
+合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.6</span>）
 
