@@ -384,10 +384,10 @@
 **124位 Astralis5**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
 
-**125位 onari-**  
+**125位 IIIIIIlII**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
 
-**126位 IIIIIIlII**  
+**126位 onari-**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 43.7</span>）
 
 **127位 r-ai-h**  
