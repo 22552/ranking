@@ -402,10 +402,10 @@
 **130位 Marollane**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 44.5</span>）
 
-**131位 pasokon102**  
+**131位 ramen84**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 44.5</span>）
 
-**132位 ramen84**  
+**132位 pasokon102**  
 合計: 1（コメント 0 / 返信 1 / 返信された数 0 / <span style="color:red">偏差値 44.5</span>）
 
 **133位 raito_1852**  
